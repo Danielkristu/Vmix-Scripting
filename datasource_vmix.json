@@ -1,0 +1,29 @@
+{
+  "name_list": [
+    {
+      "name": "Slakovski",
+      "description": ["News Anchor"],
+      "img": ["C:/Users/danie/Downloads/Countdown Templates (53).png"]
+    },
+    {
+      "name": "Marasabessy",
+      "description": ["WL"],
+      "img": ["C:/Users/danie/Downloads/Countdown Templates (52).png"]
+    },
+    {
+      "name": "Japronosse",
+      "description": ["News Anchor"],
+      "img": ["C:/Users/danie/Downloads/Countdown Templates (53).png"]
+    },
+    {
+      "name": "Christiano Odado",
+      "description": ["Musician"],
+      "img": ["C:/Users/danie/Downloads/Countdown Templates (53).png"]
+    },
+    {
+      "name": "Lil Nas Nus Nus",
+      "description": ["Singer"],
+      "img": ["C:/Users/danie/Downloads/Countdown Templates (53).png"]
+    }
+  ]
+}

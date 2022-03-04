@@ -1,0 +1,7 @@
+API.Function("OverlayInput1Off",input:=2)
+Sleep(250)
+API.Function("OverlayInput1In",input:=2)
+Sleep(5500)
+API.Function("OverlayInput1Out",input:=2)
+Sleep(1000)
+API.Function("DataSourceNextRow", Value:="JSON,JSON")
